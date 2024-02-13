@@ -1,0 +1,31 @@
+{
+ dark-primary-color: #455A64;
+ default-primary-color: #2d3436;
+ light-primary-color: #CFD8DC;
+ text-primary-color: #FFFFFF;
+ accent-color: #7C4DFF;
+ primary-text-color: #212121;
+ secondary-text-color: #757575;
+ divider-color: #BDBDBD;
+}
+
+.root{
+-fx-background-color: default-primary-color;
+}
+
+.chart-plot-background {
+-fx-background-color: #34495e
+}
+
+.default-color0.chart-series-line {
+-fx-stroke: #9b59b6;
+}
+
+Label { -fx-text-alignment: center;}
+
+.comboBox {
+-fx-font-settings: Consolas;
+-fx-font-size: 12px;
+-fx-font-color: #FFFFFF;
+}
+
